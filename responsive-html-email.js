@@ -1,20 +1,20 @@
-var subjectString = "urgent!";
-var minifiedContent = "<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'> <head> <meta http-equiv='Content-Type' content='text/html; charset=utf-8'> <meta http-equiv='X-UA-Compatible' content='IE=edge'/> <meta name='viewport' content='width=device-width, initial-scale=1.0'/> <title></title> <style type='text/css'> /* iPad styles */ @media screen and (min-width: 737px){table[class='content']{width: 149px !important; background-color: #FF0000;}table[class='hidden-content']{display: inline-block !important; width: 149px !important; border-collapse: collapse !important; background-color: #00FF00; text-align: center;}table[class='contenttable']{width: 448px !important;}}</style> </head> <body> <table align='center' width='280' border='0' cellpadding='0' cellspacing='0' class='contenttable'> <tr> <td align='center'> <p class='main-header'>Welcome to your Custom Business Solution</p><p class='sub-header'>Apps are changing the way that people do business. Based on what you've told us, here are solutions that might help you...</p></td></tr><tr> <td> <table class='content' width='140' border='0' cellspacing='0' cellpadding='' align='left' style=''> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> <table class='content' width='140' border='0' cellspacing='0' cellpadding='' align='left' style=''> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title 2</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> <table class='hidden-content' width='149' border='0' cellspacing='0' cellpadding='' align='left' style='display: none'> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title 3</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> </td></tr><tr> <td> <table class='content' width='140' border='0' cellspacing='0' cellpadding='' align='left' style=''> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> <table class='content' width='140' border='0' cellspacing='0' cellpadding='' align='left' style=''> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title 2</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> <table class='hidden-content' width='149' border='0' cellspacing='0' cellpadding='' align='left' style='display: none'> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title 3</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> </td></tr></table></body></html>"
-var contentfulImages = "<html><head><title></title></head><body><img src='https://images.contentful.com/qh5sbt4kfuy4/6FP7nlKzWE0O8QsEyYWeMq/26d4b5dd8aea203dd418b59192f21d3a/img_icon_large_xero.png'><img src='https://images.contentful.com/qh5sbt4kfuy4/4IcQGBPGYwcOweugkYSGyO/bd8312576d3207c2eeed68f3ef145dbb/img_hero_xero_00.png'><img src='https://images.contentful.com/qh5sbt4kfuy4/5Ojgajpeg0cQmkkuikEyMq/0fe6fc7b55f92e6b5dd3420714f46a7b/img_icon_large_vend.png'><img src='https://images.contentful.com/qh5sbt4kfuy4/2wuqPRApSY8cMUciSiGkGC/c7a40b6257decb6345420c458de2c627/img_hero_vend_00.png'><img src='https://images.contentful.com/qh5sbt4kfuy4/2t2ZvIPmT6O6oqQSqIYokU/ff44136311560ced1531105f114c1bc6/img_icon_large_scrollmotionenterpriseplatform.png'><img src='https://images.contentful.com/qh5sbt4kfuy4/cuyiLOJlMkQGO4EQ264eO/c40faa8fb6b01c7776623fccbca7bdff/img_hero_scrollmotionenterpriseplatform_00.png'></body></html>"
+// var subjectString = "urgent!";
+// var minifiedContent = "<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'> <head> <meta http-equiv='Content-Type' content='text/html; charset=utf-8'> <meta http-equiv='X-UA-Compatible' content='IE=edge'/> <meta name='viewport' content='width=device-width, initial-scale=1.0'/> <title></title> <style type='text/css'> /* iPad styles */ @media screen and (min-width: 737px){table[class='content']{width: 149px !important; background-color: #FF0000;}table[class='hidden-content']{display: inline-block !important; width: 149px !important; border-collapse: collapse !important; background-color: #00FF00; text-align: center;}table[class='contenttable']{width: 448px !important;}}</style> </head> <body> <table align='center' width='280' border='0' cellpadding='0' cellspacing='0' class='contenttable'> <tr> <td align='center'> <p class='main-header'>Welcome to your Custom Business Solution</p><p class='sub-header'>Apps are changing the way that people do business. Based on what you've told us, here are solutions that might help you...</p></td></tr><tr> <td> <table class='content' width='140' border='0' cellspacing='0' cellpadding='' align='left' style=''> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> <table class='content' width='140' border='0' cellspacing='0' cellpadding='' align='left' style=''> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title 2</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> <table class='hidden-content' width='149' border='0' cellspacing='0' cellpadding='' align='left' style='display: none'> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title 3</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> </td></tr><tr> <td> <table class='content' width='140' border='0' cellspacing='0' cellpadding='' align='left' style=''> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> <table class='content' width='140' border='0' cellspacing='0' cellpadding='' align='left' style=''> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title 2</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> <table class='hidden-content' width='149' border='0' cellspacing='0' cellpadding='' align='left' style='display: none'> <tr> <td align='center' style='padding: 0px 0px 0px 0px'> <img src='http://placehold.it/70x70'> <p class='product-title'>Title 3</p><p class='product-description'>Product description</p><a class='link-format' href='#'>Email Us ></a> <a class='link-format website-link-space' href='#'>Website ></a> </td></tr></table> </td></tr></table></body></html>"
+// var contentfulImages = "<html><head><title></title></head><body><img src='https://images.contentful.com/qh5sbt4kfuy4/6FP7nlKzWE0O8QsEyYWeMq/26d4b5dd8aea203dd418b59192f21d3a/img_icon_large_xero.png'><img src='https://images.contentful.com/qh5sbt4kfuy4/4IcQGBPGYwcOweugkYSGyO/bd8312576d3207c2eeed68f3ef145dbb/img_hero_xero_00.png'><img src='https://images.contentful.com/qh5sbt4kfuy4/5Ojgajpeg0cQmkkuikEyMq/0fe6fc7b55f92e6b5dd3420714f46a7b/img_icon_large_vend.png'><img src='https://images.contentful.com/qh5sbt4kfuy4/2wuqPRApSY8cMUciSiGkGC/c7a40b6257decb6345420c458de2c627/img_hero_vend_00.png'><img src='https://images.contentful.com/qh5sbt4kfuy4/2t2ZvIPmT6O6oqQSqIYokU/ff44136311560ced1531105f114c1bc6/img_icon_large_scrollmotionenterpriseplatform.png'><img src='https://images.contentful.com/qh5sbt4kfuy4/cuyiLOJlMkQGO4EQ264eO/c40faa8fb6b01c7776623fccbca7bdff/img_hero_scrollmotionenterpriseplatform_00.png'></body></html>"
 
-function spawnOverlay(overlayId) {
+// function spawnOverlay(overlayId) {
 
-    var spawnAction = {
-        "action": "#spawnOnce",
-        "trigger": "now",
-        "data": {
-            "overlayId": overlayId,
-            "text": minifiedContent,
-            "subject": subjectString
-        }
-    }
-    borg.runAction(spawnAction);
-};
+//     var spawnAction = {
+//         "action": "#spawnOnce",
+//         "trigger": "now",
+//         "data": {
+//             "overlayId": overlayId,
+//             "text": minifiedContent,
+//             "subject": subjectString
+//         }
+//     }
+//     borg.runAction(spawnAction);
+// };
 
 
 var solutionsObject = {
@@ -1615,14 +1615,28 @@ var customCart = [
 function generateHtmlString () {
 
     //loop through custom cart
-    for ( i = 0; i < customCart.length; i++ ) {
+    for (var key in customCart ) {
+        console.log(key);
+        var obj = solutionsObject[customCart[key].id];
 
-        console.log(solutionsObject.customCart[i].id);
+
+        var str = "<table class='content' width='140' border='0' cellspacing='0' cellpadding=''";
+        str += "align='left' style=''>";
+        str += "            <tr>";
+        str +=              "<td align='center' style='padding: 0px 0px 0px 0px'>";
+        str +=              "<img src='http://placehold.it/70x70'>";
+        str +=              "<p class='product-title'>"+obj.solutionName+"</p>"
+        str +=              "<p class='product-description'>Product description</p>";
+        str +=              "<a class='link-format' href='mailto:'>Email Us ></a>";
+        str +=              "<a class='link-format website-link-space' href='#'>Website ></a>";
+        str +=              "</td>";
+        str +=           "</tr>";
+        str +=       "</table>";
+        $('#contentPlaceHolder').append(str);
+        
 
     };
 
- // console.log(solutionsObject.solu0027)
 };
 
-// console.log(solutionsObject.customCart[0])
 console.log(generateHtmlString());
