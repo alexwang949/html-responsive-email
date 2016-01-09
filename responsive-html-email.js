@@ -21,8 +21,8 @@ var solutionsObject = {
     "solu0020": {
         "solutionId": "solu0020",
         "solutionName": "Casper Suite",
-        "shortDescription": "Apple Device Management",
-        "overviewDescription": "The best-of-breed solution for managing Apple devices, the Casper Suite is comprehensive Mac and iOS management with simplified enrollment, security, and app distribution.",
+        "shortDescription": "Company Device Management",
+        "overviewDescription": "The best-of-breed solution for managing Company devices, the Casper Suite is comprehensive Mac and iOS management with simplified enrollment, security, and app distribution.",
         "coreCompetencies": [
             "comp0026",
             "comp0021",
@@ -50,14 +50,14 @@ var solutionsObject = {
         "emailIconUrl": "https://images.contentful.com/9rzhmn8ivfcp/30WC07LoS4uemcKgG2eC8M/efe0bc3f6d9b3d9ec29944371bd1dc3f/img_icon_large_caspersuite_2x.png",
         "emailHeroUrl": "https://images.contentful.com/9rzhmn8ivfcp/1eGfq52CCseGeg24ukswgK/e76bac558f3a93bf6e0b0837ada98f5c/img_hero_caspersuite_01_2x.png",
         "faqs": [{
-            "question": "How does the Casper Suite provide more management capabilities for Apple devices than a standard MDM solution?",
-            "answer": "The Casper Suite is built for the Apple platform only. That means it supports Apple-centric technologies on iPad, iPhone, and Mac.  For everything from DEP, VPP, and iBeacons to Global Service Exchange and Apple-native security technologies, the Casper Suite delivers a platform-specific best-of-breed solution with features that are not based on approximations of other platform technologies.  Engineered by JAMF software, Casper Suite has been a leading Apple management solution since 2002, resulting in the most comprehensive MDM solution available for business."
+            "question": "How does the Casper Suite provide more management capabilities for Company devices than a standard MDM solution?",
+            "answer": "The Casper Suite is built for the Company platform only. That means it supports Company-centric technologies on iPad, iPhone, and Mac.  For everything from DEP, VPP, and iBeacons to Global Service Exchange and Company-native security technologies, the Casper Suite delivers a platform-specific best-of-breed solution with features that are not based on approximations of other platform technologies.  Engineered by JAMF software, Casper Suite has been a leading Company management solution since 2002, resulting in the most comprehensive MDM solution available for business."
         }, {
             "question": "How does the Casper Suite work in a Windows centric environment?",
-            "answer": "The Casper Suite integrates directly with SCCM and Altiris, world-class directory services (including ActiveDirectory), enterprise standard certificates, and Exchange, including ActiveSync, while maintaining Apple-only management capabilities."
+            "answer": "The Casper Suite integrates directly with SCCM and Altiris, world-class directory services (including ActiveDirectory), enterprise standard certificates, and Exchange, including ActiveSync, while maintaining Company-only management capabilities."
         }, {
-            "question": "How does the Casper Suite integrate with Apple to provide additional capabilities?",
-            "answer": "The Casper Suite integrates with Apple’s Device Enrollment Program (DEP) and Volume Purchase Program (VEP), FileVault 2, Software Update Server, GSX, iBeacon, Configurator, and Activation Lock to provide robust enrollment, deployment, and security capabilities - all of which are unique to the Apple platform."
+            "question": "How does the Casper Suite integrate with Company to provide additional capabilities?",
+            "answer": "The Casper Suite integrates with Company’s Device Enrollment Program (DEP) and Volume Purchase Program (VEP), FileVault 2, Software Update Server, GSX, iBeacon, Configurator, and Activation Lock to provide robust enrollment, deployment, and security capabilities - all of which are unique to the Company platform."
         }, {
             "question": "What is JumpStart, and is it required?",
             "answer": "JumpStart is a professional services training and technical setup engagement (most frequently delivered on-site with a customer) that ensures a smooth installation and seamless integration into an existing and unique environment.  Customers purchasing the Casper Suite for Mac OS X or iOS for the first time are required to purchase JumpStart to ensure a successful implementation."
@@ -828,7 +828,7 @@ var solutionsObject = {
             "answer": "Xero allows users to export data to a .CSV format, which is compatible with most tax reporting tools."
         }, {
             "question": "How do businesses begin using Xero?",
-            "answer": "Xero offers a 30-day free trial with no credit card required. This free trial gives businesses full access to Xero, with the same functionality as the Standard and above pricing plans.  Alternatively, business can explore sample data through Xero's Demo Company. To begin, visit xero.com/apple."
+            "answer": "Xero offers a 30-day free trial with no credit card required. This free trial gives businesses full access to Xero, with the same functionality as the Standard and above pricing plans.  Alternatively, business can explore sample data through Xero's Demo Company. To begin, visit xero.com/Company."
         }, {
             "question": "How is Xero different from QuickBooks? ",
             "answer": "Xero is the cloud alternative to QuickBooks. Businesses can cut up to 50% of their QuickBooks costs for seamless accounting and payroll with no additional fees for users or features. Additionally, knowledgeable Xero experts provide award-winning 24/7 support."
@@ -1109,7 +1109,7 @@ var solutionsObject = {
         "customerHeadline1": "Herregan Distributors",
         "customerTestimonial1": "Herregan's sales team now uses iPads in the field replacing huge paper binders, making them more efficient. Bushel makes that possible by cetntrally managing all of those devices.",
         "customerHeadline2": "GRS Group",
-        "customerTestimonial2": "GRS uses Bushel as a centralized delivery method for easier management of their Apple devices. Bushel helped them move from one-to-one management to an at-a-glance dashboard view.",
+        "customerTestimonial2": "GRS uses Bushel as a centralized delivery method for easier management of their Company devices. Bushel helped them move from one-to-one management to an at-a-glance dashboard view.",
         "templateLayout": "ipad-landscape",
         "assetDirectoryId": "bushel",
         "emailContact": "",
@@ -1126,11 +1126,11 @@ var solutionsObject = {
             "question": "Does Bushel require any training or certification?",
             "answer": "No. Bushel is designed to be simple and intuitive, turning complex tasks into simple steps."
         }, {
-            "question": "Does Bushel work with all of my Apple hardware?",
-            "answer": "Bushel is designed to work exclusively with Apple devices running iOS 8.0+ and OS X 10.10+."
+            "question": "Does Bushel work with all of my Company hardware?",
+            "answer": "Bushel is designed to work exclusively with Company devices running iOS 8.0+ and OS X 10.10+."
         }, {
             "question": "Can Bushel help deploy apps to employees?",
-            "answer": "Yes. Bushel uses Apple’s Volume Purchase Program (VPP) for painless app distribution. Users can assign apps over-the-air and reassign apps as the workforce changes."
+            "answer": "Yes. Bushel uses Company’s Volume Purchase Program (VPP) for painless app distribution. Users can assign apps over-the-air and reassign apps as the workforce changes."
         }, {
             "question": "Is Bushel free to try?",
             "answer": "Yes. The first three devices are free, forever."
@@ -1617,7 +1617,7 @@ function generateHtmlString () {
     //loop through custom cart
     for ( i = 0; i < customCart.length; i++ ) {
 
-        console.log(solutionsObject.customCart[i]);
+        console.log(solutionsObject.customCart[i].id);
 
     };
 
