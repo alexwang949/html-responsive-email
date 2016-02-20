@@ -1617,7 +1617,8 @@ function generateHtmlString () {
     //loop through custom cart
     for ( i = 0; i < customCart.length; i++ ) {
 
-        console.log(solutionsObject.customCart[i]);
+
+        console.log(solutionsObject[customCart[i].id]);
 
     };
 
